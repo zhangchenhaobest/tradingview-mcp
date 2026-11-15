@@ -1,3 +1,29 @@
+# tradingview-mcp
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 辅助的 TradingView 图表分析，把 Claude Code 连到 TradingView Desktop 实现工作流自动化。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # TradingView MCP Bridge
 
 [![MCP Toplist](https://mcptoplist.com/badge/glama%2Ftradesdontlie%2Ftradingview-mcp.svg)](https://mcptoplist.com/server/glama%2Ftradesdontlie%2Ftradingview-mcp)
